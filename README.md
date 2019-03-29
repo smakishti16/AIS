@@ -12,33 +12,3 @@ The main purpose of this project is to digitalize alumni information into a well
 network that will help the Career Office and the students themselves to communicate and share their professional background. In addition, 
 this network will help the Career Office better organize gathering events for graduated students.
 
-This management system will have two main modules:
-
-
-1. The admin module
-   
-   In this case, the Career Office representative will take the role of the administrator of the system with the following functionalities:
-  
-  a. Create new alumni student profiles and/or events
-  
-  b. Read the information from the database
-  
-  c. Update the events and/or the alumni data
-  
-  d. Delete irrelevant information on th system
-  
-  e. Generate and view statistics
-  
-2. The alumni student module
-   
-   In this case, every student successfully graduated from Epoka University can be part of AIS using his/her Epoka email address.
-   
-  a. Create his/her own profile
-   
-  b. View his/her profile 
-   
-  c. Add job postings
- 
-  d. Update his/her information
-  
-  e. Respond to events and/or job listings
